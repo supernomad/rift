@@ -1,2 +1,4 @@
 # rift
-A GPU powered terminal emulator.
+
+---
+&copy; Copyright 2022 Christian Saide
